@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MahbubulArefin.github.io/my-portfolio/static/css/main.0480be87.css",
+    "main.js": "/MahbubulArefin.github.io/my-portfolio/static/js/main.b866e2c4.js",
+    "static/media/portfolio.jpg": "/MahbubulArefin.github.io/my-portfolio/static/media/portfolio.8ad2594b15746a8cf039.jpg",
+    "static/media/dp.jpg": "/MahbubulArefin.github.io/my-portfolio/static/media/dp.93249d9cecfb1397e1d3.jpg",
+    "static/media/ecommerce.jpg": "/MahbubulArefin.github.io/my-portfolio/static/media/ecommerce.6afcd409a2462a4f75e3.jpg",
+    "static/media/blog_app.jpg": "/MahbubulArefin.github.io/my-portfolio/static/media/blog_app.ab9a956c32f30e1ae221.jpg",
+    "static/media/jobAppTrack.jpg": "/MahbubulArefin.github.io/my-portfolio/static/media/jobAppTrack.60d5864b16d1c3729335.jpg",
+    "static/media/expensetracker.jpg": "/MahbubulArefin.github.io/my-portfolio/static/media/expensetracker.1f63616465c65aebc31c.jpg",
+    "static/media/booktracker.jpg": "/MahbubulArefin.github.io/my-portfolio/static/media/booktracker.74d6811762fd6a5367c0.jpg",
+    "index.html": "/MahbubulArefin.github.io/my-portfolio/index.html",
+    "main.0480be87.css.map": "/MahbubulArefin.github.io/my-portfolio/static/css/main.0480be87.css.map",
+    "main.b866e2c4.js.map": "/MahbubulArefin.github.io/my-portfolio/static/js/main.b866e2c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0480be87.css",
+    "static/js/main.b866e2c4.js"
+  ]
+}
