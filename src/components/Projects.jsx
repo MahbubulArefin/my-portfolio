@@ -7,6 +7,7 @@ import EcommerceSite from "../assets/ecommerce.jpg";
 import BlogApp from "../assets/blog_app.jpg";
 import BookTracker from "../assets/booktracker.jpg";
 import ExpenseTracker from "../assets/expensetracker.jpg";
+import Weather from "../assets/weather.jpg";
 
 const Projects = () => {
   const projects = [
@@ -23,10 +24,10 @@ const Projects = () => {
       image: EcommerceSite,
     },
     {
-      title: "Blog Platform",
-      description: "A blog with markdown support and user authentication.",
-      link: "https://github.com/MahbubulArefin/blog-app",
-      image: BlogApp,
+      title: "Weather App",
+      description: "A weather app which can show weather report of any city in the world.",
+      link: "https://github.com/MahbubulArefin/weather-app",
+      image: Weather,
     },
     {
       title: "Book Tracker",
